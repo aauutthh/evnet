@@ -1,0 +1,12 @@
+```
+aclocal
+autoconf
+automake -a
+./configure
+cd src ; make ; cd -
+cd example ; sh make 
+```
+
+and then run thread_net for test
+
+

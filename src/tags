@@ -1,0 +1,354 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ACLOCAL	Makefile	/^ACLOCAL = ${SHELL} \/home\/lwd\/git_check\/github\/evnet\/missing aclocal-1.14$/;"	m
+ACLOCAL_M4	Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+AMTAR	Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_DEFAULT_VERBOSITY	Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_V_AR	Makefile	/^AM_V_AR = $(am__v_AR_$(V))$/;"	m
+AM_V_CC	Makefile	/^AM_V_CC = $(am__v_CC_$(V))$/;"	m
+AM_V_CCLD	Makefile	/^AM_V_CCLD = $(am__v_CCLD_$(V))$/;"	m
+AM_V_GEN	Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_P	Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_at	Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+AR	Makefile	/^AR = ar$/;"	m
+ARFLAGS	Makefile	/^ARFLAGS = cru$/;"	m
+ASSERT	assert_test.c	6;"	d	file:
+ASSERT	assertion.h	85;"	d
+ASSERTION_BUFSIZE	assertion.h	12;"	d
+ASSERT_AUX2	assertion.h	40;"	d
+ASSERT_DO	assertion.h	133;"	d
+ASSERT_EXIT	assertion.h	53;"	d
+ASSERT_RETURN	assertion.h	61;"	d
+ASSERT_SET	assertion.h	69;"	d
+ASSERT_TRUE	assertion.h	30;"	d
+ASSERT_TRUE_PRINT	assertion.h	77;"	d
+ASSERT_TRUE_PRINT_CMD	assertion.h	38;"	d
+AUTOCONF	Makefile	/^AUTOCONF = ${SHELL} \/home\/lwd\/git_check\/github\/evnet\/missing autoconf$/;"	m
+AUTOHEADER	Makefile	/^AUTOHEADER = ${SHELL} \/home\/lwd\/git_check\/github\/evnet\/missing autoheader$/;"	m
+AUTOMAKE	Makefile	/^AUTOMAKE = ${SHELL} \/home\/lwd\/git_check\/github\/evnet\/missing automake-1.14$/;"	m
+AWK	Makefile	/^AWK = gawk$/;"	m
+BUFFER_SIZE	ev_net.c	21;"	d	file:
+BUFFER_SIZE	evm_net.c	12;"	d	file:
+CC	Makefile	/^CC = gcc$/;"	m
+CCDEPMODE	Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CCLD	Makefile	/^CCLD = $(CC)$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2$/;"	m
+COMPILE	Makefile	/^COMPILE = $(CC) $(DEFS) $(DEFAULT_INCLUDES) $(INCLUDES) $(AM_CPPFLAGS) \\$/;"	m
+CONFIG_CLEAN_FILES	Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	Makefile	/^CPPFLAGS = $/;"	m
+CTAGS	Makefile	/^CTAGS = ctags$/;"	m
+CYGPATH_W	Makefile	/^CYGPATH_W = echo$/;"	m
+DEFAULT_INCLUDES	Makefile	/^DEFAULT_INCLUDES = -I.$/;"	m
+DEFS	Makefile	/^DEFS = -DPACKAGE_NAME=\\"FULL-PACKAGE-NAME\\" -DPACKAGE_TARNAME=\\"full-package-name\\" -DPACKAGE_VERSION=\\"VERSION\\" -DPACKAGE_STRING=\\"FULL-PACKAGE-NAME\\ VERSION\\" -DPACKAGE_BUGREPORT=\\"BUG-REPORT-ADDRESS\\" -DPACKAGE_URL=\\"\\" -DPACKAGE=\\"full-package-name\\" -DVERSION=\\"VERSION\\" -DHAVE_LIBPTHREAD=1 -DSTDC_HEADERS=1 -DHAVE_SYS_TYPES_H=1 -DHAVE_SYS_STAT_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STRINGS_H=1 -DHAVE_INTTYPES_H=1 -DHAVE_STDINT_H=1 -DHAVE_UNISTD_H=1 -DHAVE_ARPA_INET_H=1 -DHAVE_FCNTL_H=1 -DHAVE_MEMORY_H=1 -DHAVE_STDLIB_H=1 -DHAVE_STRING_H=1 -DHAVE_SYS_SOCKET_H=1 -DHAVE_SYS_TIME_H=1 -DHAVE_UNISTD_H=1 -DHAVE_STDLIB_H=1 -DHAVE_MALLOC=1 -DHAVE_BZERO=1 -DHAVE_GETTIMEOFDAY=1 -DHAVE_MEMSET=1 -DHAVE_SOCKET=1$/;"	m
+DEPDIR	Makefile	/^DEPDIR = .deps$/;"	m
+DISTFILES	Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am \\$/;"	m
+DIST_SOURCES	Makefile	/^DIST_SOURCES = $(libevnet_a_SOURCES)$/;"	m
+DO_UNLESS	assertion.h	150;"	d
+DO_WHEN	assertion.h	144;"	d
+ECHO_C	Makefile	/^ECHO_C = $/;"	m
+ECHO_N	Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	Makefile	/^ECHO_T = $/;"	m
+EGREP	Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+EPOLLQUEUESIZE	ev_net.c	28;"	d	file:
+ETAGS	Makefile	/^ETAGS = etags$/;"	m
+EVM_DEFAULT_THREAD_NUM	evm_net.h	11;"	d
+EVM_MAX_FD	evm_net.h	14;"	d
+EVM_MAX_QUEUE_SIZE	evm_net.h	13;"	d
+EVM_MAX_THREAD_NUM	evm_net.h	12;"	d
+EVM_TIME_TRIGGER_NUMS	evm_net.h	15;"	d
+EV_TUNNELTYPE	ev_net.h	/^enum EV_TUNNELTYPE{$/;"	g
+EV_TUNNELTYPE_CLIENT	ev_net.h	/^EV_TUNNELTYPE_CLIENT ,     \/\/ indicate that a connected client has request arrive$/;"	e	enum:EV_TUNNELTYPE
+EV_TUNNELTYPE_LISTEN	ev_net.h	/^EV_TUNNELTYPE_LISTEN = 1,  \/\/ indicate that need to accept a new client$/;"	e	enum:EV_TUNNELTYPE
+EV_TUNNELTYPE_SERVER	ev_net.h	/^EV_TUNNELTYPE_SERVER ,     \/\/ indicate that a connected server has response arrive$/;"	e	enum:EV_TUNNELTYPE
+EV_TUNNELTYPE_UNSET	ev_net.h	/^EV_TUNNELTYPE_UNSET = 0,$/;"	e	enum:EV_TUNNELTYPE
+EXEEXT	Makefile	/^EXEEXT = $/;"	m
+GREP	Makefile	/^GREP = \/bin\/grep$/;"	m
+INSTALL	Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+IPLEN	ev_net.c	20;"	d	file:
+LDFLAGS	Makefile	/^LDFLAGS = $/;"	m
+LIBOBJS	Makefile	/^LIBOBJS = $/;"	m
+LIBRARIES	Makefile	/^LIBRARIES = $(lib_LIBRARIES)$/;"	m
+LIBS	Makefile	/^LIBS = -lpthread $/;"	m
+LINK	Makefile	/^LINK = $(CCLD) $(AM_CFLAGS) $(CFLAGS) $(AM_LDFLAGS) $(LDFLAGS) -o $@$/;"	m
+LTLIBOBJS	Makefile	/^LTLIBOBJS = $/;"	m
+MAKEINFO	Makefile	/^MAKEINFO = ${SHELL} \/home\/lwd\/git_check\/github\/evnet\/missing makeinfo$/;"	m
+MAXFDNUM	ev_net.c	27;"	d	file:
+MKDIR_P	Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MSGTYPE	ev_net.c	19;"	d	file:
+NORMAL_INSTALL	Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+OBJEXT	Makefile	/^OBJEXT = o$/;"	m
+OR_DO	assertion.h	139;"	d
+OR_EXIT	assertion.h	104;"	d
+OR_EXIT_CMD	assertion.h	107;"	d
+OR_EXIT_PRT	assertion.h	110;"	d
+OR_RETURN	assert_test.c	14;"	d	file:
+OR_RETURN	assertion.h	94;"	d
+OR_RETURN_CMD	assert_test.c	15;"	d	file:
+OR_RETURN_CMD	assertion.h	97;"	d
+OR_RETURN_PRT	assert_test.c	16;"	d	file:
+OR_RETURN_PRT	assertion.h	100;"	d
+OR_SET_RET	assertion.h	114;"	d
+OR_SET_RET_CMD	assertion.h	117;"	d
+OR_SET_RET_PRT	assertion.h	120;"	d
+PACKAGE	Makefile	/^PACKAGE = full-package-name$/;"	m
+PACKAGE_BUGREPORT	Makefile	/^PACKAGE_BUGREPORT = BUG-REPORT-ADDRESS$/;"	m
+PACKAGE_NAME	Makefile	/^PACKAGE_NAME = FULL-PACKAGE-NAME$/;"	m
+PACKAGE_STRING	Makefile	/^PACKAGE_STRING = FULL-PACKAGE-NAME VERSION$/;"	m
+PACKAGE_TARNAME	Makefile	/^PACKAGE_TARNAME = full-package-name$/;"	m
+PACKAGE_URL	Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	Makefile	/^PACKAGE_VERSION = VERSION$/;"	m
+PATH_SEPARATOR	Makefile	/^PATH_SEPARATOR = :$/;"	m
+POST_INSTALL	Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	Makefile	/^POST_UNINSTALL = :$/;"	m
+PRE_INSTALL	Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRINTF_UNLESS	assertion.h	166;"	d
+PRINTF_WHEN	assertion.h	160;"	d
+RANLIB	Makefile	/^RANLIB = ranlib$/;"	m
+RETURN_FALSE_UNLESS	assertion.h	156;"	d
+RETURN_FALSE_WHEN	assertion.h	157;"	d
+SET_MAKE	Makefile	/^SET_MAKE = $/;"	m
+SHELL	Makefile	/^SHELL = \/bin\/bash$/;"	m
+SOURCES	Makefile	/^SOURCES = $(libevnet_a_SOURCES)$/;"	m
+STRIP	Makefile	/^STRIP = $/;"	m
+THEN_DO	assertion.h	140;"	d
+THEN_PRINT	assertion.h	124;"	d
+THEN_PRINT_CMD	assertion.h	127;"	d
+THEN_PRINT_PRT	assertion.h	130;"	d
+VERSION	Makefile	/^VERSION = VERSION$/;"	m
+_POSIX_SOURCE	signal_handler.c	7;"	d	file:
+__ASSERTION_BUF__	assertion.h	/^static char __ASSERTION_BUF__[ASSERTION_BUFSIZE] ;$/;"	v
+__ASSERTION_H__	assertion.h	10;"	d
+__SIGNAL_HANDLER_H__	signal_handler.h	8;"	d
+_at_handle_error	evm_net.c	/^static int _at_handle_error(int err , const evm_data_t* ed)$/;"	f	file:
+_d	evm_net.c	/^struct _d{$/;"	s	file:
+_epoll_accept	ev_net.c	/^static int _epoll_accept(int fd , ev_handle* f , void* callbackdata , int datasize)$/;"	f	file:
+_ev_loop	ev_net.c	/^static int _ev_loop()$/;"	f	file:
+_evm_default_handle	evm_net.c	/^static int _evm_default_handle(const ev_data_t* ed )$/;"	f	file:
+_evm_default_trigger	evm_net.c	/^static void* _evm_default_trigger(void* data, int datasize)$/;"	f	file:
+_evm_thread	evm_net.c	/^static void* _evm_thread(void *tinfo)$/;"	f	file:
+_evm_trigger_thread	evm_net.c	/^static void* _evm_trigger_thread(void* data)$/;"	f	file:
+_hash	evm_net.c	/^static unsigned int _hash(unsigned int key)$/;"	f	file:
+abs_builddir	Makefile	/^abs_builddir = \/home\/lwd\/git_check\/github\/evnet\/src$/;"	m
+abs_srcdir	Makefile	/^abs_srcdir = \/home\/lwd\/git_check\/github\/evnet\/src$/;"	m
+abs_top_builddir	Makefile	/^abs_top_builddir = \/home\/lwd\/git_check\/github\/evnet$/;"	m
+abs_top_srcdir	Makefile	/^abs_top_srcdir = \/home\/lwd\/git_check\/github\/evnet$/;"	m
+ac_ct_AR	Makefile	/^ac_ct_AR = ar$/;"	m
+ac_ct_CC	Makefile	/^ac_ct_CC = gcc$/;"	m
+am__aclocal_m4_deps	Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/configure.ac$/;"	m
+am__base_list	Makefile	/^am__base_list = \\$/;"	m
+am__can_run_installinfo	Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__define_uniq_tagged_files	Makefile	/^am__define_uniq_tagged_files = \\$/;"	m
+am__depfiles_maybe	Makefile	/^am__depfiles_maybe = depfiles$/;"	m
+am__include	Makefile	/^am__include = include$/;"	m
+am__install_max	Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	Makefile	/^am__installdirs = "$(DESTDIR)$(libdir)"$/;"	m
+am__is_gnu_make	Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__leading_dot	Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_running_with_option	Makefile	/^am__make_running_with_option = \\$/;"	m
+am__mv	Makefile	/^am__mv = mv -f$/;"	m
+am__nobase_list	Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__quote	Makefile	/^am__quote = $/;"	m
+am__strip_dir	Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tagged_files	Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tar	Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__uninstall_files_from_dir	Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__uniquify_input	Makefile	/^am__uniquify_input = $(AWK) '\\$/;"	m
+am__untar	Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__v_AR_	Makefile	/^am__v_AR_ = $(am__v_AR_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_AR_0	Makefile	/^am__v_AR_0 = @echo "  AR      " $@;$/;"	m
+am__v_AR_1	Makefile	/^am__v_AR_1 = $/;"	m
+am__v_CCLD_	Makefile	/^am__v_CCLD_ = $(am__v_CCLD_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CCLD_0	Makefile	/^am__v_CCLD_0 = @echo "  CCLD    " $@;$/;"	m
+am__v_CCLD_1	Makefile	/^am__v_CCLD_1 = $/;"	m
+am__v_CC_	Makefile	/^am__v_CC_ = $(am__v_CC_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_CC_0	Makefile	/^am__v_CC_0 = @echo "  CC      " $@;$/;"	m
+am__v_CC_1	Makefile	/^am__v_CC_1 = $/;"	m
+am__v_GEN_	Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_1	Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_P_	Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_0	Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_1	Makefile	/^am__v_P_1 = :$/;"	m
+am__v_at_	Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_1	Makefile	/^am__v_at_1 = $/;"	m
+am__vpath_adj	Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+am_libevnet_a_OBJECTS	Makefile	/^am_libevnet_a_OBJECTS = evm_net.$(OBJEXT) ev_net.$(OBJEXT) \\$/;"	m
+bindir	Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+buf	assert_test.c	/^static char buf[4096];$/;"	v	file:
+build_alias	Makefile	/^build_alias = $/;"	m
+builddir	Makefile	/^builddir = .$/;"	m
+callback	ev_net.h	/^    ev_handle *callback;$/;"	m	struct:epoll_event_data_s
+callback	evm_net.h	/^    evm_handle *callback;$/;"	m	struct:evm_data_s
+callbackdata	ev_net.h	/^    void *callbackdata;$/;"	m	struct:epoll_event_data_s
+callbackdata	evm_net.h	/^    void *callbackdata;$/;"	m	struct:evm_data_s
+connect_ipv4	ev_net.c	/^static int connect_ipv4(const char* ip, const unsigned short port)$/;"	f	file:
+create_ev_data	ev_net.c	/^ev_data_t* create_ev_data(const char* ip, const unsigned short port , void* callbackdata , int datasize)$/;"	f
+data	evm_net.c	/^    char data;$/;"	m	struct:_d	file:
+datadir	Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	Makefile	/^datarootdir = ${prefix}\/share$/;"	m
+datasize	ev_net.h	/^    int datasize;$/;"	m	struct:epoll_event_data_s
+datasize	evm_net.h	/^    int datasize;$/;"	m	struct:evm_data_s
+depcomp	Makefile	/^depcomp = $(SHELL) $(top_srcdir)\/depcomp$/;"	m
+docdir	Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dvidir	Makefile	/^dvidir = ${docdir}$/;"	m
+epfd	ev_net.h	/^    int epfd;$/;"	m	struct:epoll_event_data_s
+epoll_event_data_s	ev_net.h	/^struct epoll_event_data_s{$/;"	s
+ev_clear_trigger	ev_net.h	85;"	d
+ev_connect_ipv4	ev_net.c	/^int ev_connect_ipv4( const char* ip, const unsigned short port , ev_handle *f , void* callbackdata , int datasize)$/;"	f
+ev_data_t	ev_net.h	/^typedef struct epoll_event_data_s ev_data_t;$/;"	t	typeref:struct:epoll_event_data_s
+ev_defaut_handle	ev_net.c	/^int ev_defaut_handle(const ev_data_t* ed)$/;"	f
+ev_destroy	ev_net.c	/^int ev_destroy()$/;"	f
+ev_ed_close	ev_net.c	/^int ev_ed_close(const ev_data_t* ed )$/;"	f
+ev_ed_read	ev_net.c	/^int ev_ed_read(ev_data_t* ed , char* buf , int size)$/;"	f
+ev_ed_write	ev_net.c	/^int ev_ed_write(ev_data_t* ed ,char* buf , int size)$/;"	f
+ev_endloop	ev_net.c	/^void ev_endloop()$/;"	f
+ev_fd_close	ev_net.c	/^int ev_fd_close(int fd)$/;"	f
+ev_fd_read	ev_net.c	/^int ev_fd_read(int fd , char* buf , int size)$/;"	f
+ev_fd_write	ev_net.c	/^int ev_fd_write(int fd ,char* buf , int size)$/;"	f
+ev_get_evdata	ev_net.c	/^ev_data_t* ev_get_evdata(int fd)$/;"	f
+ev_handle	ev_net.h	/^typedef int ev_handle(const ev_data_t* ed );$/;"	t
+ev_init	ev_net.c	/^int ev_init()$/;"	f
+ev_listen_ipv4	ev_net.c	/^int ev_listen_ipv4(const char* ip, const unsigned short port ,ev_handle *f , void* callbackdata , int datasize)$/;"	f
+ev_set_timeout	ev_net.c	/^void ev_set_timeout(int mili)$/;"	f
+ev_set_trigger	ev_net.c	/^int ev_set_trigger(ev_trigger* h, void* cliendata , int datasize )$/;"	f
+ev_startloop	ev_net.c	/^void ev_startloop()$/;"	f
+ev_stoploop	ev_net.h	55;"	d
+ev_trigger	ev_net.h	/^typedef void* ev_trigger(void* data, int datasize);$/;"	t
+evm_clear_timetrigger	evm_net.h	81;"	d
+evm_connect_ipv4	evm_net.c	/^int evm_connect_ipv4( char* ip , unsigned short port , evm_handle* f , $/;"	f
+evm_data_s	evm_net.h	/^struct evm_data_s{$/;"	s
+evm_data_t	evm_net.h	/^typedef struct evm_data_s evm_data_t;$/;"	t	typeref:struct:evm_data_s
+evm_destroy	evm_net.c	/^void evm_destroy()$/;"	f
+evm_ed_close	evm_net.c	/^int evm_ed_close(const evm_data_t* ed )$/;"	f
+evm_ed_read	evm_net.c	/^int evm_ed_read(evm_data_t* ed , char* buf , int size)$/;"	f
+evm_ed_write	evm_net.c	/^int evm_ed_write(evm_data_t* ed ,char* buf , int size)$/;"	f
+evm_fd_close	evm_net.c	/^int evm_fd_close(int fd )$/;"	f
+evm_fd_read	evm_net.c	/^int evm_fd_read(int fd , char* buf , int size)$/;"	f
+evm_fd_write	evm_net.c	/^int evm_fd_write(int fd,char* buf , int size)$/;"	f
+evm_handle	evm_net.h	/^typedef int evm_handle(const evm_data_t* evm );$/;"	t
+evm_init	evm_net.c	/^int evm_init(int thread_num)$/;"	f
+evm_join	evm_net.c	/^int evm_join()$/;"	f
+evm_listen_ipv4	evm_net.c	/^int evm_listen_ipv4( char* ip , unsigned short port , evm_handle* f , $/;"	f
+evm_run	evm_net.c	/^int evm_run()$/;"	f
+evm_set_epoll_timeout	evm_net.c	/^void evm_set_epoll_timeout(int milisecond )$/;"	f
+evm_set_timetrigger_per	evm_net.c	/^int evm_set_timetrigger_per(int milisecond ,int idx ,  $/;"	f
+evm_stop	evm_net.c	/^int evm_stop()$/;"	f
+evm_timehandler	evm_net.h	/^typedef void* evm_timehandler(void* clientdata , int size);$/;"	t
+evm_tinfo_t	evm_net.h	/^} evm_tinfo_t;$/;"	t	typeref:struct:__anon1
+evs	ev_net.c	/^static struct epoll_event evs[EPOLLQUEUESIZE];$/;"	v	typeref:struct:epoll_event	file:
+exec_prefix	Makefile	/^exec_prefix = ${prefix}$/;"	m
+fcntl_opt	ev_net.c	/^static int fcntl_opt(int fd , int opt , int* old_opts ,int cleanflag )$/;"	f	file:
+fd	ev_net.h	/^    int fd;$/;"	m	struct:epoll_event_data_s
+fd	evm_net.h	/^    int fd;$/;"	m	struct:evm_data_s
+free_ev_data	ev_net.c	/^void free_ev_data(ev_data_t* p)$/;"	f
+g_attr	evm_net.c	/^static pthread_attr_t g_attr;$/;"	v	file:
+g_datas	evm_net.c	/^static evm_data_t* g_datas[EVM_MAX_FD];$/;"	v	file:
+g_epfd	ev_net.c	/^static int g_epfd = 1; $/;"	v	file:
+g_exit	signal_handler.c	/^int g_exit = 0;$/;"	v
+g_jobix	evm_net.c	/^static int g_jobix[EVM_MAX_THREAD_NUM];$/;"	v	file:
+g_jobq	evm_net.c	/^static int g_jobq[EVM_MAX_THREAD_NUM][EVM_MAX_QUEUE_SIZE+1];$/;"	v	file:
+g_len_listen_queue	ev_net.c	/^static int g_len_listen_queue = 400; \/\/ 接受的排队客户端数$/;"	v	file:
+g_loop	ev_net.c	/^static int g_loop = 1; $/;"	v	file:
+g_peds	ev_net.c	/^static ev_data_t* g_peds[MAXFDNUM];$/;"	v	file:
+g_run	evm_net.c	/^static int g_run;$/;"	v	file:
+g_t_mutex	evm_net.c	/^static pthread_mutex_t g_t_mutex[EVM_MAX_THREAD_NUM];$/;"	v	file:
+g_t_sig	evm_net.c	/^static pthread_cond_t g_t_sig[EVM_MAX_THREAD_NUM];$/;"	v	file:
+g_thread_num	evm_net.c	/^static int g_thread_num = EVM_DEFAULT_THREAD_NUM ;$/;"	v	file:
+g_threads	evm_net.c	/^static pthread_t* g_threads[EVM_MAX_THREAD_NUM];$/;"	v	file:
+g_timeout	ev_net.c	/^static int g_timeout = 300; $/;"	v	file:
+g_trigger	ev_net.c	/^static ev_trigger* g_trigger  ;$/;"	v	file:
+g_trigger	evm_net.c	/^static int g_trigger[EVM_TIME_TRIGGER_NUMS];$/;"	v	file:
+g_trigger_data	ev_net.c	/^static void *g_trigger_data ;$/;"	v	file:
+g_trigger_data	evm_net.c	/^static void* g_trigger_data[EVM_TIME_TRIGGER_NUMS];$/;"	v	file:
+g_trigger_datasize	ev_net.c	/^static int g_trigger_datasize ;$/;"	v	file:
+g_trigger_encount	evm_net.c	/^static int g_trigger_encount[EVM_TIME_TRIGGER_NUMS];$/;"	v	file:
+g_trigger_handler	evm_net.c	/^static evm_timehandler* g_trigger_handler[EVM_TIME_TRIGGER_NUMS];$/;"	v	file:
+g_trigger_mutex	evm_net.c	/^static pthread_mutex_t g_trigger_mutex;$/;"	v	file:
+g_trigger_sig	evm_net.c	/^static pthread_cond_t g_trigger_sig;$/;"	v	file:
+g_trigger_thread	evm_net.c	/^static pthread_t* g_trigger_thread;$/;"	v	file:
+getmilisecond	evm_net.c	/^static unsigned long getmilisecond()$/;"	f	file:
+host_alias	Makefile	/^host_alias = $/;"	m
+htmldir	Makefile	/^htmldir = ${docdir}$/;"	m
+includedir	Makefile	/^includedir = ${prefix}\/include$/;"	m
+infodir	Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+install_sh	Makefile	/^install_sh = ${SHELL} \/home\/lwd\/git_check\/github\/evnet\/install-sh$/;"	m
+install_sh_DATA	Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+ip	ev_net.h	/^    char* ip;$/;"	m	struct:epoll_event_data_s
+ip	evm_net.h	/^    char* ip;$/;"	m	struct:evm_data_s
+ipv4_from_addr	ev_net.c	/^static char* ipv4_from_addr(struct sockaddr_in* addr , char* ip, unsigned short* port)$/;"	f	file:
+ipv4_to_addr	ev_net.c	/^static struct sockaddr_in* ipv4_to_addr(const char* ip, const unsigned short port, $/;"	f	file:
+jobqueue_pop	evm_net.c	/^static int jobqueue_pop( int tid )$/;"	f	file:
+jobqueue_push	evm_net.c	/^static int jobqueue_push( int tid , int fd)$/;"	f	file:
+jobqueue_search	evm_net.c	/^static int jobqueue_search( int tid , int fd)$/;"	f	file:
+lib_LIBRARIES	Makefile	/^lib_LIBRARIES = libevnet.a$/;"	m
+libdir	Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libevnet_a_AR	Makefile	/^libevnet_a_AR = $(AR) $(ARFLAGS)$/;"	m
+libevnet_a_LIBADD	Makefile	/^libevnet_a_LIBADD =$/;"	m
+libevnet_a_OBJECTS	Makefile	/^libevnet_a_OBJECTS = $(am_libevnet_a_OBJECTS)$/;"	m
+libevnet_a_SOURCES	Makefile	/^libevnet_a_SOURCES = evm_net.c ev_net.c signal_handler.c$/;"	m
+libexecdir	Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+listen_ipv4	ev_net.c	/^static int listen_ipv4(const char* ip, const unsigned short port)$/;"	f	file:
+localedir	Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+main	assert_test.c	/^int main()$/;"	f
+mandir	Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+mkdir_p	Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkinstalldirs	Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+old_sig_funs	signal_handler.c	/^sigfunc* old_sig_funs[32]={$/;"	v
+oldincludedir	Makefile	/^oldincludedir = \/usr\/include$/;"	m
+pdfdir	Makefile	/^pdfdir = ${docdir}$/;"	m
+pkgdatadir	Makefile	/^pkgdatadir = $(datadir)\/full-package-name$/;"	m
+pkgincludedir	Makefile	/^pkgincludedir = $(includedir)\/full-package-name$/;"	m
+pkglibdir	Makefile	/^pkglibdir = $(libdir)\/full-package-name$/;"	m
+pkglibexecdir	Makefile	/^pkglibexecdir = $(libexecdir)\/full-package-name$/;"	m
+port	ev_net.h	/^    unsigned short port;$/;"	m	struct:epoll_event_data_s
+port	evm_net.h	/^    unsigned short port;$/;"	m	struct:evm_data_s
+prefix	Makefile	/^prefix = \/usr\/local$/;"	m
+program_transform_name	Makefile	/^program_transform_name = s,x,x,$/;"	m
+psdir	Makefile	/^psdir = ${docdir}$/;"	m
+register_signal	signal_handler.c	/^int register_signal(int signo, signal_handler* func)$/;"	f
+sbindir	Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+set_nonblock	ev_net.c	/^int set_nonblock(int fd)$/;"	f
+sfd	evm_net.h	/^    int sfd;  \/\/ accept from sfd$/;"	m	struct:evm_data_s
+sharedstatedir	Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+sig_funs	signal_handler.c	/^signal_handler* sig_funs[32]={$/;"	v
+sig_happen	signal_handler.c	/^int sig_happen[32]={$/;"	v
+sig_set	signal_handler.c	/^void sig_set(int signo)$/;"	f
+sigfunc	signal_handler.h	/^typedef void sigfunc(int);$/;"	t
+signal_handler	signal_handler.h	/^typedef int signal_handler(int signo);$/;"	t
+signal_retrieve	signal_handler.c	/^int signal_retrieve()$/;"	f
+size	evm_net.c	/^    int size;$/;"	m	struct:_d	file:
+srcdir	Makefile	/^srcdir = .$/;"	m
+subdir	Makefile	/^subdir = src$/;"	m
+sysconfdir	Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+target_alias	Makefile	/^target_alias = $/;"	m
+tid	evm_net.h	/^    int tid;$/;"	m	struct:__anon1
+top_build_prefix	Makefile	/^top_build_prefix = ..\/$/;"	m
+top_builddir	Makefile	/^top_builddir = ..$/;"	m
+top_srcdir	Makefile	/^top_srcdir = ..$/;"	m
+transform	Makefile	/^transform = $(program_transform_name)$/;"	m
+tunneltype	ev_net.h	/^    int tunneltype;$/;"	m	struct:epoll_event_data_s

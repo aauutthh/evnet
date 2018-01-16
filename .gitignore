@@ -27,3 +27,15 @@
 *.exe
 *.out
 *.app
+
+# Makefile
+Makefile
+aclocal.m4
+autom4te.cache/*
+autoscan.log/*
+*.log
+*.status
+thread_net
+*/.deps/*
+init.gdb
+*.back
